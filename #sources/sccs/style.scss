@@ -1,0 +1,28 @@
+@import 'fonts.scss'; //Шрифты
+@import 'nullstyle.scss'; // Нормализация
+
+*{
+    background-color: black;
+    color: white;
+}
+body {
+font-family: 'Montserrat', sans-serif;
+font-style: normal;
+font-weight: 400;
+}
+.container {
+    max-width: 1460px;
+    margin-right: auto;
+    margin-left: auto;
+    padding-left: 135px;
+    padding-right: 123px;
+}
+.heading {
+    font-weight: 250;
+    font-size: 40px;
+}
+.heading-description {
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 33px;
+}

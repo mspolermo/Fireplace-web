@@ -1,0 +1,11 @@
+*{
+    background-color: black;
+    color: white;
+}
+.container {
+    max-width: 1460px;
+    margin-right: auto;
+    margin-left: auto;
+    padding-left: 135px;
+    padding-right: 123px;
+}
